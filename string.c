@@ -15,7 +15,7 @@ int main(void)
    int i;
    char *s[] = 
    {
-      "Sample Git tutorials",
+      "Modified Sample Git tutorials",
       "Tutorials Point"
    };
 
